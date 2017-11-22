@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="29px" viewBox="0 0 128 29" style="enable-background:new 0 0 128 29;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4D47A0;}
+	.st1{fill:#020202;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:12px;}
+	.st4{fill:#A57856;}
+	.st5{fill:#F9F9F9;}
+	.st6{fill:#F9F9F9;stroke:#020202;stroke-miterlimit:10;}
+	.st7{stroke:#020202;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<rect class="st0" width="64" height="29"/>
+	</g>
+	<text transform="matrix(1 0 0 1 18.2046 17.8408)" class="st1 st2 st3">here</text>
+</g>
+<g>
+	<g>
+		<rect x="64" class="st4" width="64" height="29"/>
+	</g>
+	<text transform="matrix(1 0 0 1 84.7729 18.8184)" class="st2 st3">there</text>
+</g>
+<path class="st5" d="M47-79"/>
+<g>
+	<circle class="st6" cx="63.5" cy="14.5" r="9.5"/>
+	<line class="st7" x1="50" y1="14.5" x2="77" y2="14.5"/>
+	<line class="st7" x1="63.5" y1="28" x2="63.5" y2="1"/>
+	<line class="st7" x1="53.968" y1="24.06" x2="73.06" y2="4.968"/>
+	<line class="st7" x1="73.06" y1="24.06" x2="53.968" y2="4.968"/>
+</g>
+</svg>
